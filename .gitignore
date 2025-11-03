@@ -1,0 +1,17 @@
+# Archivos de usuario y temporales de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+[Oo]bj/
+[Bb]in/
+
+# Paquetes NuGet
+[Pp]ackages/
+*.nupkg
+
+# Archivos de publicación
+[Pp]ublish/
+*.publish.xml
